@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/food/js/main.js" => "1699433879223",]; ?>

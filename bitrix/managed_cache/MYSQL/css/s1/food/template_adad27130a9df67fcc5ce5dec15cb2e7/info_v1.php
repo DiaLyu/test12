@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/food/css/normalize.css" => "16994338796487","/local/templates/food/css/style.css" => "169943387915820",]; ?>

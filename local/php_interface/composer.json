@@ -1,0 +1,19 @@
+{
+    "name": "e05idiip/helpers",
+    "require": {
+        "kint-php/kint": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "E05idiip\\": "src/",
+            "E05idiip\\Socials\\": "src/Socials/",
+            "E05idiip\\Table\\":  "src/Table/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diana Lyukina",
+            "email": "05idianka6282@gmail.com"
+        }
+    ]
+}
